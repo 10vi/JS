@@ -1,0 +1,1 @@
+// Primitive datatypes : null, number, symbol, string, bigint, boolean, undefined

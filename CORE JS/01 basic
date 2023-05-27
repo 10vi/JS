@@ -1,0 +1,12 @@
+
+For git : 
+    git add . 
+    git commit -m "" 
+    git push -u origin master
+
+To run js file from terminal : node <file Name>.js
+
+java script 
+
+    it is dynamically typed languages --> changing runtime 
+
