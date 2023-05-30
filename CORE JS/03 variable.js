@@ -3,16 +3,16 @@
 // var for variables -> not in use as it can cause bugs 
 // let to declare block scoped variables
 
-let a = "TS"
-console.log(a)
-a = 8
-console.log(a)
+let a = "TS";
+console.log(a);
+a = 8;
+console.log(a);
 
-$b = 3
-console.log($b)
+$b = 3;
+console.log($b);
 
-c = "SKZ"
-console.log(c)
+c = "SKZ";
+console.log(c);
 
-var d = "SVT"
-console.log(d)
+var d = "SVT";
+console.log(d);
